@@ -1,0 +1,6 @@
+{
+  "name": "AI QA Agent",
+  "description": "An AI-powered assistant to help discover application modules, generate comprehensive test cases, and manage test execution status. It uses Gemini for AI capabilities and allows users to simulate test cycles for their web applications.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
