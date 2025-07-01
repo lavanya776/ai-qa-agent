@@ -1,4 +1,4 @@
-# Run and deploy your AI Studio app
+# QA AI Agent
 
 This contains everything you need to run your app locally.
 
